@@ -41,7 +41,7 @@ O setup é feito **uma única vez** na sua máquina. Depois disso, todos os proj
 ### 1. Baixar o projeto
 
 ```bash
-git clone https://github.com/vertigo/dev-daily-automation
+git clone https://github.com/pcastrovertigo/Dev-Daily-Automation
 cd dev-daily-automation
 chmod +x setup.sh
 ./setup.sh
