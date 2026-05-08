@@ -1,0 +1,17 @@
+[
+  {
+    "nome": "Plataforma Financeira",
+    "path": "~/projetos/plataforma",
+    "jira": "FIN"
+  },
+  {
+    "nome": "App Mobile",
+    "path": "~/projetos/mobile",
+    "jira": "MOB"
+  },
+  {
+    "nome": "API Gateway",
+    "path": "~/projetos/gateway",
+    "jira": "PLAT"
+  }
+]
